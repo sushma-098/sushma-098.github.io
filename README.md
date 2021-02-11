@@ -4,7 +4,7 @@
 
 **branch,  Year:** CST 1st Year
 
-**College  Name:**Sri Vasavi E ngineering College
+**College  Name:**Sri Vasavi Engineering College
 
 ## Skills:
 
